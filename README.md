@@ -1,6 +1,15 @@
-# Páginas para Receitas
+Páginas para Receitas
 
-Adicionar a descrição aqui!
+Projeto Receita
+Time: WEbDevs
 
-* Sofismavaz: Sprint 1 - Estrutura inicial do projeto
- ** Dev 1 - Criar estrutura base do index.html(ramo develop)
+Descrição
+Projeo desenvolvido para praticar Git/GitHub no WebAcademy da UFAC.
+
+Desenvolvedores
+Cesar
+Giovanni
+Lucir
+Como rodar
+Clone o repositório:
+Abra o arquivo index.html no navegador.
